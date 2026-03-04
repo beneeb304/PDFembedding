@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Virtual environments
+venv/
+ENV/
+.env/
+.venv/
+
+# Pytest
+.pytest_cache/
+.coverage
+coverage.xml
+
+# mypy
+.mypy_cache/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+
+# Optional: ignore common generated outputs (uncomment if desired)
+# output*.pdf
+# recovered*.png
+# *.tmp.pdf
+
+# JetBrains
+*.iml
+
+# Secret keys
+*.pem
+*.key
+.env
+
+# Node/npm (if present)
+node_modules/
+
+# Coverage
+htmlcov/
+
+# macOS
+*.DS_Store
